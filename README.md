@@ -1,5 +1,3 @@
-Github Account - (https://github.com/Saumya7803)
+# Animated-Attractive-Login-Page-
 
-
-# Animated-attractive-Login-Page
-Creating Animated Login Page with awesome background HTML &amp; CSS.
+Animated login form built with HTML and CSS.
